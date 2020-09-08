@@ -4,7 +4,7 @@ SEOTitle: 谢科的博客 | Keal Blog
 header-img: img/home-bg.jpg
 email: keerealsg@gmail.com
 description: "程序与设计，Software Engineer|  @Keal谢科的个人博客，分享和自由"
-keyword: "谢科, Keal, Kealsg, 后端开发, 广州医科大学, Python, Go"
+keyword: "谢科, Keal, Kealsg, Kneed, 后端开发, 广州医科大学, Python, Go"
 url: "https://kneed.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -103,5 +103,9 @@ friends: [
     # },{
       title: "Shadow Bai",
       href: "https://weibo.com/dramabanana?nick=%E6%B8%8C%E5%B0%8F%E8%82%A5%E8%99%AB&is_all=1"
+    },
+    {
+      title: "Lawrie",
+      href: "https://github.com/cnLawrie"
     }
 ]
