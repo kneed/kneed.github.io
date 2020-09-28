@@ -7,10 +7,8 @@ header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - tech
-	- concurrency
-	- python
-
-
+    - python
+    - concurrency
 ---
 
 ## 前言
