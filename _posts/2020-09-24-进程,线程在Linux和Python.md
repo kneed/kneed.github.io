@@ -39,7 +39,7 @@ Linux并未像Windows那样提供`CreateProcess`和`CreateThread`API来明确区
 
 ​		[multiprocess官方文档](https://docs.python.org/zh-cn/3/library/multiprocessing.html)
 
-​		[subprocss官方文档](https://docs.python.org/zh-cn/3/library/subprocess.html)
+​		[subprocess官方文档](https://docs.python.org/zh-cn/3/library/subprocess.html)
 
 ### 实践注意:
 
