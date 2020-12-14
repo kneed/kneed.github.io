@@ -7,10 +7,29 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="Update: new blog">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4b/e7f3c9077bc23711703302b650ae010fb7420be3b57fed10ef19292d7d49d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/57f71a733b68b03469ebe3f3508d92c6edd204855d2f2247df7427ef1c2fa1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-14-关于生活的一些想法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar-hux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-keynote.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-md-navbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-sidebar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,16 +45,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="78b48c2a-e14d-483d-b3f4-78b46ceaf2e1" />
+  </component>
   <component name="ProjectId" id="1h29PxTV6vs2EGkFgApttB5F84X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -45,6 +71,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,8 +90,121 @@
       <updated>1599198299775</updated>
       <workItem from="1599198301291" duration="11191000" />
       <workItem from="1599442834679" duration="562000" />
-      <workItem from="1599443695097" duration="2708000" />
+      <workItem from="1599443695097" duration="7428000" />
+      <workItem from="1599533834427" duration="6853000" />
+      <workItem from="1599704162945" duration="1328000" />
+      <workItem from="1600075471412" duration="450000" />
+      <workItem from="1600310853716" duration="1656000" />
+      <workItem from="1600420851341" duration="1365000" />
+      <workItem from="1600651153244" duration="576000" />
+      <workItem from="1600673035781" duration="6157000" />
+      <workItem from="1601711462427" duration="250000" />
+      <workItem from="1602215126980" duration="729000" />
+      <workItem from="1602727209554" duration="532000" />
+      <workItem from="1603070388025" duration="210000" />
+      <workItem from="1603174308381" duration="1060000" />
+      <workItem from="1603243331218" duration="1111000" />
+      <workItem from="1603329956766" duration="361000" />
+      <workItem from="1603347794315" duration="483000" />
+      <workItem from="1603418085748" duration="389000" />
+      <workItem from="1603726766137" duration="529000" />
+      <workItem from="1603819060272" duration="25000" />
+      <workItem from="1603819113627" duration="774000" />
+      <workItem from="1604279682634" duration="712000" />
+      <workItem from="1607935291135" duration="826000" />
     </task>
+    <task id="LOCAL-00001" summary="Update: New Blog">
+      <created>1599473481863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599473481863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update: blog">
+      <created>1599532241984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599532241984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update: blog">
+      <created>1599533809809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599533809809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update: Nothing important">
+      <created>1599537731821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599537731821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update: 更新about页, 修复reference显示错误的问题">
+      <created>1599544483717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599544483717</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update: New Blog, Go struct">
+      <created>1599620946247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599620946247</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix: wrong word">
+      <created>1599631472695</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599631472695</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update: 更新Go的一些参考网站">
+      <created>1600054856706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600054856706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update: 两篇文章">
+      <created>1600344785140</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600344785140</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update: 两篇文章">
+      <created>1600391541969</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600391541969</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update: 进程,线程">
+      <created>1601258317479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601258317479</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix: tab问题">
+      <created>1601260681129</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601260681129</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update: new blog">
+      <created>1602215187826</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602215187826</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,29 +215,76 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update: New Blog" />
+    <MESSAGE value="Update: blog" />
+    <MESSAGE value="Update: Nothing important" />
+    <MESSAGE value="Update: 更新about页, 修复reference显示错误的问题" />
+    <MESSAGE value="Update: New Blog, Go struct" />
+    <MESSAGE value="Fix: wrong word" />
+    <MESSAGE value="Update: 更新Go的一些参考网站" />
+    <MESSAGE value="Update: 两篇文章" />
+    <MESSAGE value="Update: 进程,线程" />
+    <MESSAGE value="Fix: tab问题" />
+    <MESSAGE value="Update: new blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: new blog" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1599200384184">
+    <state x="444" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599533389948">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599200384184" />
+    <state x="444" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599533389948" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600927348167">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1600927348167" />
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1602215570751">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1602215570751" />
+    <state x="565" y="391" key="Github.Dialog.Accounts.Choose" timestamp="1599532463899">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="565" y="391" key="Github.Dialog.Accounts.Choose/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599532463899" />
     <state x="510" y="171" key="RollbackChangesDialog" timestamp="1599200325538">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="510" y="171" key="RollbackChangesDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599200325538" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601260273943">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1601260273943" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1602215237694">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1602215237694" />
     <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599200384184">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599200384184" />
-    <state x="251" y="156" width="890" height="630" key="find.popup" timestamp="1599444931194">
+    <state x="251" y="156" width="890" height="630" key="find.popup" timestamp="1599633366415">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="251" y="156" width="890" height="630" key="find.popup/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599444931194" />
+    <state x="251" y="156" width="890" height="630" key="find.popup/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599633366415" />
   </component>
 </project>
