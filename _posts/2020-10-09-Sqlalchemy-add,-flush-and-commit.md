@@ -74,13 +74,13 @@ class A():
   big_a = A()
   db.session.add(big_a)
   small_a = a()
-  small_a.parent_uuid = big_a.uuid() # 赋值为空,因为big_a的uuid属性现在并没有调用uuid4()生成
+  small_a.parent_uuid = big_a.uuid # 赋值为空,因为big_a的uuid属性现在并没有调用uuid4()生成
   
   # 正确写法
   big_a = A()
   db.session.add(big_a)
   db.session.flush()  # 需要flush之后,触发uuid4()生成默认uuid,此时赋值才能得到期望结果
-  small_a.parent_uuid = big_a.uuid()
+  small_a.parent_uuid = big_a.uuid
 ```
 
 #### Reference:
