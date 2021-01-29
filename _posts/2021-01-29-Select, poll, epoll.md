@@ -26,7 +26,7 @@ tags:
 4.  信号驱动 I/O（ signal driven IO）
 5.  异步 I/O（asynchronous IO）
 
-![clipboard.png](https://segmentfault.com/img/bVm1c9)
+![clipboard.png](https://tva1.sinaimg.cn/large/008eGmZEgy1gn4v5tv7c2j30h2093gnt.jpg)
 
 这里面需要理解的一个关键点是: 数据是先到内核, 在到用户进程. 举个例子,你在你的用户进程里发起了一个recvfrom调用,那么就会有两个等待:
 
@@ -45,8 +45,8 @@ IO多路复用跟阻塞IO很像,区别在于**IO多路复用第一个等待不�
 
 小结:
 
-1. 阻塞是指程序是否要等待内核数据准备好
-2. 同步是指需不需要等待从内核读取内容的操作完成
+1. 是否阻塞看程序是否要等待内核数据准备好
+2. 是否同步看需不需要等待从内核读取内容的操作完成
 
 ### Select, Poll, Epoll
 
@@ -70,7 +70,7 @@ poll跟select的在本质上没有区别,只是通过修改了数据结构来解
 
 #### Epoll
 
-epoll跟select和poll最主要的区别就在于多了一个回调的机制, select和poll是用户触发某个操作后,去遍历fd查看是否就绪,举个例子,你每次调用select()的时候才会去做这个事情. 但是epoll里的fd会在数据到达准备就绪时,调用一个方法来将自己归为到就绪的集合里.这样以select()举例就是你调用select()可以直接返回就绪的fd了,不需要在进行一此遍历的操作.效率自然快.
+epoll跟select和poll最主要的区别就在于多了一个回调的机制, select和poll是用户触发某个操作后,去遍历fd查看是否就绪,举个例子,你每次调用select()的时候才会去做这个事情. 但是epoll里的fd会在数据到达准备就绪时,调用一个方法来将自己归为到就绪的集合里.这样以select()举例就是你select()可以直接返回就绪的fd了,不需要走一遍遍历fd检查是否就绪的操作.效率自然快.
 
 epoll优点:
 		效率不会因为fd数量的上升而迅速下降.
