@@ -16,19 +16,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="Update: new blog">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4b/e7f3c9077bc23711703302b650ae010fb7420be3b57fed10ef19292d7d49d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/57f71a733b68b03469ebe3f3508d92c6edd204855d2f2247df7427ef1c2fa1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-14-关于生活的一些想法.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="Feature: 办卡体验和一些旧文章修正">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-hux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog-desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog-keynote.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog-md-navbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog-sidebar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-14-我的经济学知识收藏.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-14-我的经济学知识收藏.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,25 @@
       <workItem from="1603819060272" duration="25000" />
       <workItem from="1603819113627" duration="774000" />
       <workItem from="1604279682634" duration="712000" />
-      <workItem from="1607935291135" duration="826000" />
+      <workItem from="1607935291135" duration="1776000" />
+      <workItem from="1609835724565" duration="2119000" />
+      <workItem from="1610697888121" duration="4077000" />
+      <workItem from="1611296591249" duration="685000" />
+      <workItem from="1611304526284" duration="598000" />
+      <workItem from="1611544177739" duration="1164000" />
+      <workItem from="1611917455311" duration="75000" />
+      <workItem from="1611925126391" duration="1256000" />
+      <workItem from="1612323835447" duration="2168000" />
+      <workItem from="1612854394749" duration="660000" />
+      <workItem from="1613698314160" duration="619000" />
+      <workItem from="1613704531565" duration="1999000" />
+      <workItem from="1614329124291" duration="116000" />
+      <workItem from="1615186007315" duration="785000" />
+      <workItem from="1615469443799" duration="341000" />
+      <workItem from="1615469871098" duration="1731000" />
+      <workItem from="1616398278152" duration="1229000" />
+      <workItem from="1617184093196" duration="2352000" />
+      <workItem from="1619019696995" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="Update: New Blog">
       <created>1599473481863</created>
@@ -204,7 +218,91 @@
       <option name="project" value="LOCAL" />
       <updated>1602215187826</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update: markdown配合图床IPic">
+      <created>1607936525284</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607936525284</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update: 记一次python和数据库死锁问题的排查">
+      <created>1610701710470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610701710470</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update: 记一次python和数据库死锁问题的排查">
+      <created>1610701861121</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610701861121</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Featue: New artical">
+      <created>1611296633304</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611296633304</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Featue: New blog">
+      <created>1611917518041</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611917518041</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update: 纠正部分语句,使之更通顺合理">
+      <created>1611925677830</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611925677830</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add: &#10;我向西,引北风,晒成一身古铜.">
+      <created>1614172797886</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1614172797886</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fix: 错误的对List的理解">
+      <created>1614219679242</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1614219679242</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add: new article">
+      <created>1614329228654</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614329228654</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Feature: 累积了一两周的内容了">
+      <created>1615543966066</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1615543966066</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Feature: 新内容">
+      <created>1617183873922</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617183873922</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fix: 错误标题">
+      <created>1617184115832</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1617184115832</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,10 +330,23 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update: New Blog" />
     <MESSAGE value="Update: blog" />
     <MESSAGE value="Update: Nothing important" />
@@ -247,44 +358,30 @@
     <MESSAGE value="Update: 进程,线程" />
     <MESSAGE value="Fix: tab问题" />
     <MESSAGE value="Update: new blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: new blog" />
+    <MESSAGE value="Update: markdown配合图床IPic" />
+    <MESSAGE value="Update: 记一次python和数据库死锁问题的排查" />
+    <MESSAGE value="Featue: New artical" />
+    <MESSAGE value="Featue: New blog" />
+    <MESSAGE value="Update: 纠正部分语句,使之更通顺合理" />
+    <MESSAGE value="Add: &#10;我向西,引北风,晒成一身古铜." />
+    <MESSAGE value="Fix: 错误的对List的理解" />
+    <MESSAGE value="Add: new article" />
+    <MESSAGE value="Feature: 累积了一两周的内容了" />
+    <MESSAGE value="Feature: 新内容" />
+    <MESSAGE value="Fix: 错误标题" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: 错误标题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599533389948">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog" timestamp="1619019773219">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="444" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599533389948" />
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600927348167">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog/0.25.1440.875/1440.-37.1920.1055@0.25.1440.875" timestamp="1614329240068" />
+    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1619019773219" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1617184117410">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1600927348167" />
-    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1602215570751">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1602215570751" />
-    <state x="565" y="391" key="Github.Dialog.Accounts.Choose" timestamp="1599532463899">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="565" y="391" key="Github.Dialog.Accounts.Choose/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599532463899" />
-    <state x="510" y="171" key="RollbackChangesDialog" timestamp="1599200325538">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="510" y="171" key="RollbackChangesDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599200325538" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1601260273943">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1601260273943" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1602215237694">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1602215237694" />
-    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599200384184">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599200384184" />
-    <state x="251" y="156" width="890" height="630" key="find.popup" timestamp="1599633366415">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="251" y="156" width="890" height="630" key="find.popup/0.23.1440.877/1440.-39.1920.1057@0.23.1440.877" timestamp="1599633366415" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-37.1920.1055@0.25.1440.875" timestamp="1617184117410" />
+    <state x="1867" y="178" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-37.1920.1055@1440.-37.1920.1055" timestamp="1614219681058" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1614172800211" />
   </component>
 </project>

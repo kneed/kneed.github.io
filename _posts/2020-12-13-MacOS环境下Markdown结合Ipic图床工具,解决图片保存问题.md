@@ -7,7 +7,6 @@ header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
     - tech
-
 ---
 
 如果你习惯了使用markdown,那么你久了你一定会有一个问题, 就是文本中的图片如何保存呢?以往我都是上传到图床后, 在插入到markdown文本中. 但是重复这个过程实在费劲. 感觉这个需求应该很多人都有, 做技术的应该都会有解决方案吧,在了解完相关工具之后, 发现Typora + [Ipic](https://toolinbox.net/iPic/)的组合很适合我. 配置简单,使用方便并且免费.
