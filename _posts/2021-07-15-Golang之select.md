@@ -2,7 +2,7 @@
 layout:     post
 title:      "Golang之select"
 subtitle:   "\"select for ?\""
-date:       2021-07-14 23:58:00
+date:       2021-07-15 21:28:00
 author:     "Keal"
 header-img: "img/post-bg-go-1.png"
 catalog: true
@@ -92,3 +92,8 @@ func main() {
 fatal error: all goroutines are asleep - deadlock!
 ```
 
+## Reference
+
+golang的系列在draveness的博客中有一些列非常详细的介绍.本篇都只是描述一些个人认为的重点内容.如果想知道相关golang设计过程,源码,机器执行指令等内容.推荐直接看draveness的内容或者其他更为详细的博文.
+
+https://draveness.me/golang/

@@ -71,4 +71,7 @@ $ go run main.go
 
 ## Reference
 
-https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-defer/
+golang的系列在draveness的博客中有一些列非常详细的介绍.本篇都只是描述一些个人认为的重点内容.如果想知道相关golang设计过程,源码,机器执行指令等内容.推荐直接看draveness的内容或者其他更为详细的博文.
+
+https://draveness.me/golang/
+
