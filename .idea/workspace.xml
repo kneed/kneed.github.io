@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -16,15 +19,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="Feature: 办卡体验和一些旧文章修正">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 2022回顾和2023总结">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-03-02-我理解的经济的现状.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kneed.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kneed.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-14-我的经济学知识收藏.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-14-我的经济学知识收藏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +38,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="78b48c2a-e14d-483d-b3f4-78b46ceaf2e1" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1h29PxTV6vs2EGkFgApttB5F84X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,11 +61,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,13 +81,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -126,6 +141,20 @@
       <workItem from="1616398278152" duration="1229000" />
       <workItem from="1617184093196" duration="2352000" />
       <workItem from="1619019696995" duration="76000" />
+      <workItem from="1619019788767" duration="267000" />
+      <workItem from="1619020074454" duration="2673000" />
+      <workItem from="1626102888064" duration="2977000" />
+      <workItem from="1626193485902" duration="7892000" />
+      <workItem from="1668418642116" duration="724000" />
+      <workItem from="1668496786621" duration="362000" />
+      <workItem from="1673919545692" duration="781000" />
+      <workItem from="1674954190970" duration="316000" />
+      <workItem from="1677218695604" duration="3383000" />
+      <workItem from="1677460692728" duration="7408000" />
+      <workItem from="1681350665652" duration="40000" />
+      <workItem from="1686296336813" duration="701000" />
+      <workItem from="1687157054385" duration="900000" />
+      <workItem from="1689931920080" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="Update: New Blog">
       <created>1599473481863</created>
@@ -302,11 +331,88 @@
       <option name="project" value="LOCAL" />
       <updated>1617184115832</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Feature: 办卡体验和一些旧文章修正">
+      <created>1619019972034</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1619019972034</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat: gitignore增加idea无用文件">
+      <created>1619020125031</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1619020125031</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Feature: 伊芙琳的七次死亡">
+      <created>1623853250442</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1623853250442</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Feat: golang之go的调度(未完待续)">
+      <created>1626107982536</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1626107982536</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Feat: defer关键字">
+      <created>1626193474079</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1626193474079</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Feat: defer关键字">
+      <created>1626193501720</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1626193501720</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Feat: golang之类型比较">
+      <created>1626279740535</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1626279740535</updated>
+    </task>
+    <task id="LOCAL-00033" summary="style: 调整下格式">
+      <created>1626280263566</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1626280263566</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat: golang 之 select">
+      <created>1626412058398</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1626412058398</updated>
+    </task>
+    <task id="LOCAL-00035" summary="feat: 多篇文章修改, 更新Golang之Context">
+      <created>1626881274736</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1626881274736</updated>
+    </task>
+    <task id="LOCAL-00036" summary="feat: 2022回顾和2023总结">
+      <created>1677229288938</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1677229288940</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -344,24 +450,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update: New Blog" />
-    <MESSAGE value="Update: blog" />
-    <MESSAGE value="Update: Nothing important" />
-    <MESSAGE value="Update: 更新about页, 修复reference显示错误的问题" />
-    <MESSAGE value="Update: New Blog, Go struct" />
-    <MESSAGE value="Fix: wrong word" />
-    <MESSAGE value="Update: 更新Go的一些参考网站" />
-    <MESSAGE value="Update: 两篇文章" />
-    <MESSAGE value="Update: 进程,线程" />
-    <MESSAGE value="Fix: tab问题" />
-    <MESSAGE value="Update: new blog" />
-    <MESSAGE value="Update: markdown配合图床IPic" />
-    <MESSAGE value="Update: 记一次python和数据库死锁问题的排查" />
-    <MESSAGE value="Featue: New artical" />
-    <MESSAGE value="Featue: New blog" />
     <MESSAGE value="Update: 纠正部分语句,使之更通顺合理" />
     <MESSAGE value="Add: &#10;我向西,引北风,晒成一身古铜." />
     <MESSAGE value="Fix: 错误的对List的理解" />
@@ -369,19 +459,24 @@
     <MESSAGE value="Feature: 累积了一两周的内容了" />
     <MESSAGE value="Feature: 新内容" />
     <MESSAGE value="Fix: 错误标题" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: 错误标题" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog" timestamp="1619019773219">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog/0.25.1440.875/1440.-37.1920.1055@0.25.1440.875" timestamp="1614329240068" />
-    <state x="100" y="125" width="1240" height="676" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1619019773219" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1617184117410">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-37.1920.1055@0.25.1440.875" timestamp="1617184117410" />
-    <state x="1867" y="178" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-37.1920.1055@1440.-37.1920.1055" timestamp="1614219681058" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1614172800211" />
+    <MESSAGE value="Feature: 办卡体验和一些旧文章修正" />
+    <MESSAGE value="feat: gitignore增加idea无用文件" />
+    <MESSAGE value="Feature: 伊芙琳的七次死亡" />
+    <MESSAGE value="Feat: golang之go的调度(未完待续)" />
+    <MESSAGE value="Feat: defer关键字" />
+    <MESSAGE value="Feat: golang之类型比较" />
+    <MESSAGE value="style: 调整下格式" />
+    <MESSAGE value="feat: golang 之 select" />
+    <MESSAGE value="feat: 多篇文章修改, 更新Golang之Context" />
+    <MESSAGE value="feat: channel" />
+    <MESSAGE value="feat：Golang学习之旅" />
+    <MESSAGE value="feat：新增腾讯面试记录" />
+    <MESSAGE value="feat: 黑客帝国3部曲重刷观感(待补充完整)" />
+    <MESSAGE value="feat: 2021部分总结" />
+    <MESSAGE value="feat: 2022计划" />
+    <MESSAGE value="feat: 4月杂想" />
+    <MESSAGE value="feat: 公司发展和个人发展" />
+    <MESSAGE value="feat: 2022回顾和2023总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 2022回顾和2023总结" />
   </component>
 </project>
