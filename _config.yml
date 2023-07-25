@@ -1,7 +1,7 @@
 # Site settings
-title: Keal Blog
-SEOTitle: 谢科的博客 | Keal Blog
-header-img: img/home-bg.jpg
+title: Keal's Blog
+SEOTitle: 谢科的博客 | Keal's Blog
+header-img: img/tag3.jpg
 email: keerealsg@gmail.com
 description: "程序与设计，Software Engineer|  @Keal谢科的个人博客，分享和自由"
 keyword: "谢科, Keal, Kealsg, Kneed, 后端开发, 广州医科大学, Python, Go"
@@ -73,7 +73,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "easy, my friend<br>没有什么是了不起的"
+sidebar-about-description: "easy, my friend<br>do the right things"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
