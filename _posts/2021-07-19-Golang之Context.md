@@ -123,10 +123,10 @@ handle context deadline exceeded
 
 ## Reference
 
-[官方博客关于context的介绍]https://blog.golang.org/context
+[官方博客关于context的介绍](https://blog.golang.org/context)
 
-[官方context包的介绍]https://pkg.go.dev/context
+[官方context包的介绍](https://pkg.go.dev/context)
 
-[知乎]https://zhuanlan.zhihu.com/p/68792989
+[知乎](https://zhuanlan.zhihu.com/p/68792989)
 
-[draveness]https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/
+[draveness](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/)
