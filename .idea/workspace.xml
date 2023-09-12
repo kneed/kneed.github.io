@@ -19,15 +19,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 2022回顾和2023总结">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-03-02-我理解的经济的现状.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kneed.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kneed.github.io.iml" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +81,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -154,7 +153,13 @@
       <workItem from="1681350665652" duration="40000" />
       <workItem from="1686296336813" duration="701000" />
       <workItem from="1687157054385" duration="900000" />
-      <workItem from="1689931920080" duration="489000" />
+      <workItem from="1689931920080" duration="5932000" />
+      <workItem from="1690273767778" duration="2212000" />
+      <workItem from="1690351241728" duration="712000" />
+      <workItem from="1690796699396" duration="449000" />
+      <workItem from="1691476952902" duration="2139000" />
+      <workItem from="1692581925380" duration="6814000" />
+      <workItem from="1693791722058" duration="3527000" />
     </task>
     <task id="LOCAL-00001" summary="Update: New Blog">
       <created>1599473481863</created>
@@ -408,7 +413,56 @@
       <option name="project" value="LOCAL" />
       <updated>1677229288940</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="feat: 各种回顾和新文章补上">
+      <created>1689933104391</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1689933104391</updated>
+    </task>
+    <task id="LOCAL-00038" summary="feat: 修改了主页背景图片, 更新部分背景图">
+      <created>1690271069495</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1690271069496</updated>
+    </task>
+    <task id="LOCAL-00039" summary="feat: 新增一个每周图片分享栏目">
+      <created>1693291334633</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1693291334634</updated>
+    </task>
+    <task id="LOCAL-00040" summary="chore: 替换大小过大的图片,避免加载太慢">
+      <created>1693359133385</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1693359133385</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片">
+      <created>1693809642173</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1693809642173</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix: 修复图片问题&#10;&#10;整理部分文章">
+      <created>1693810552575</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1693810552575</updated>
+    </task>
+    <task id="LOCAL-00043" summary="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式">
+      <created>1694401018450</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1694401018450</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,13 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update: 纠正部分语句,使之更通顺合理" />
-    <MESSAGE value="Add: &#10;我向西,引北风,晒成一身古铜." />
-    <MESSAGE value="Fix: 错误的对List的理解" />
-    <MESSAGE value="Add: new article" />
-    <MESSAGE value="Feature: 累积了一两周的内容了" />
-    <MESSAGE value="Feature: 新内容" />
-    <MESSAGE value="Fix: 错误标题" />
     <MESSAGE value="Feature: 办卡体验和一些旧文章修正" />
     <MESSAGE value="feat: gitignore增加idea无用文件" />
     <MESSAGE value="Feature: 伊芙琳的七次死亡" />
@@ -477,6 +524,13 @@
     <MESSAGE value="feat: 4月杂想" />
     <MESSAGE value="feat: 公司发展和个人发展" />
     <MESSAGE value="feat: 2022回顾和2023总结" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 2022回顾和2023总结" />
+    <MESSAGE value="feat: 各种回顾和新文章补上" />
+    <MESSAGE value="feat: 修改了主页背景图片, 更新部分背景图" />
+    <MESSAGE value="feat: 新增一个每周图片分享栏目" />
+    <MESSAGE value="chore: 替换大小过大的图片,避免加载太慢" />
+    <MESSAGE value="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片" />
+    <MESSAGE value="fix: 修复图片问题&#10;&#10;整理部分文章" />
+    <MESSAGE value="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式" />
   </component>
 </project>
