@@ -19,10 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 新增关于数据库count()的分析">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-09-18-每周照片分享.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +158,7 @@
       <workItem from="1690796699396" duration="449000" />
       <workItem from="1691476952902" duration="2139000" />
       <workItem from="1692581925380" duration="6814000" />
-      <workItem from="1693791722058" duration="3527000" />
+      <workItem from="1693791722058" duration="4191000" />
     </task>
     <task id="LOCAL-00001" summary="Update: New Blog">
       <created>1599473481863</created>
@@ -462,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694401018450</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="feat: 新增关于数据库count()的分析">
+      <created>1694500058709</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1694500058709</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: 办卡体验和一些旧文章修正" />
     <MESSAGE value="feat: gitignore增加idea无用文件" />
     <MESSAGE value="Feature: 伊芙琳的七次死亡" />
     <MESSAGE value="Feat: golang之go的调度(未完待续)" />
@@ -531,6 +536,7 @@
     <MESSAGE value="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片" />
     <MESSAGE value="fix: 修复图片问题&#10;&#10;整理部分文章" />
     <MESSAGE value="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增每周照片分享第三期&#10;&#10;更新了部分亲密关系的阅读进度&#10;修改了部分超链接的格式" />
+    <MESSAGE value="feat: 新增关于数据库count()的分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增关于数据库count()的分析" />
   </component>
 </project>
