@@ -19,12 +19,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 亲密关系阅读进展更新">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 每周照片第七期">
+      <change afterPath="$PROJECT_DIR$/img/tag10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag17.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-09-18-每周照片分享.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-18-每周照片分享.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,42 +164,7 @@
       <workItem from="1690796699396" duration="449000" />
       <workItem from="1691476952902" duration="2139000" />
       <workItem from="1692581925380" duration="6814000" />
-      <workItem from="1693791722058" duration="5559000" />
-    </task>
-    <task id="LOCAL-00001" summary="Update: New Blog">
-      <created>1599473481863</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1599473481863</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Update: blog">
-      <created>1599532241984</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1599532241984</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Update: blog">
-      <created>1599533809809</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1599533809809</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Update: Nothing important">
-      <created>1599537731821</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1599537731821</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Update: 更新about页, 修复reference显示错误的问题">
-      <created>1599544483717</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1599544483717</updated>
+      <workItem from="1693791722058" duration="15353000" />
     </task>
     <task id="LOCAL-00006" summary="Update: New Blog, Go struct">
       <created>1599620946247</created>
@@ -484,7 +453,63 @@
       <option name="project" value="LOCAL" />
       <updated>1695004939879</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="style: 旧文章格式细节优化">
+      <created>1695188773190</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1695188773190</updated>
+    </task>
+    <task id="LOCAL-00048" summary="feat:新增两篇文章">
+      <created>1695188795322</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1695188795322</updated>
+    </task>
+    <task id="LOCAL-00049" summary="feat:亲密关系-第六章第一次阅读完毕">
+      <created>1695188817208</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1695188817208</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix: 图片路径错误问题">
+      <created>1695286884284</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1695286884289</updated>
+    </task>
+    <task id="LOCAL-00051" summary="feat: 每周照片第五期">
+      <created>1695607271442</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1695607271445</updated>
+    </task>
+    <task id="LOCAL-00052" summary="feat: 每周照片第六期">
+      <created>1696145849121</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1696145849123</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix: 背景图片格式错误">
+      <created>1696145979025</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1696145979027</updated>
+    </task>
+    <task id="LOCAL-00054" summary="feat: 每周照片第七期">
+      <created>1696732300593</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1696732300597</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,14 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feat: golang之go的调度(未完待续)" />
-    <MESSAGE value="Feat: defer关键字" />
-    <MESSAGE value="Feat: golang之类型比较" />
-    <MESSAGE value="style: 调整下格式" />
-    <MESSAGE value="feat: golang 之 select" />
-    <MESSAGE value="feat: 多篇文章修改, 更新Golang之Context" />
-    <MESSAGE value="feat: channel" />
-    <MESSAGE value="feat：Golang学习之旅" />
     <MESSAGE value="feat：新增腾讯面试记录" />
     <MESSAGE value="feat: 黑客帝国3部曲重刷观感(待补充完整)" />
     <MESSAGE value="feat: 2021部分总结" />
@@ -553,6 +570,14 @@
     <MESSAGE value="feat: 新增关于数据库count()的分析" />
     <MESSAGE value="feat: 每周照片更新" />
     <MESSAGE value="feat: 亲密关系阅读进展更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 亲密关系阅读进展更新" />
+    <MESSAGE value="style: 旧文章格式细节优化" />
+    <MESSAGE value="feat:新增两篇文章" />
+    <MESSAGE value="feat:亲密关系-第六章第一次阅读完毕" />
+    <MESSAGE value="fix: 图片路径错误问题" />
+    <MESSAGE value="feat: 每周照片第五期" />
+    <MESSAGE value="feat: 每周照片第六期" />
+    <MESSAGE value="fix: 背景图片格式错误" />
+    <MESSAGE value="feat: 每周照片第七期" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 每周照片第七期" />
   </component>
 </project>
