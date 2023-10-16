@@ -19,16 +19,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 每周照片第七期">
-      <change afterPath="$PROJECT_DIR$/img/tag10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag17.jpg" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-20-关于租房买房的一些深入研究.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-20-关于租房买房的一些深入研究.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-01-每周照片分享-第六期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-01-每周照片分享-第六期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-07-每周照片分享-第七期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-07-每周照片分享-第七期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tag17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tag6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tag6.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,20 +162,8 @@
       <workItem from="1691476952902" duration="2139000" />
       <workItem from="1692581925380" duration="6814000" />
       <workItem from="1693791722058" duration="15353000" />
-    </task>
-    <task id="LOCAL-00006" summary="Update: New Blog, Go struct">
-      <created>1599620946247</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1599620946247</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Fix: wrong word">
-      <created>1599631472695</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1599631472695</updated>
+      <workItem from="1696924223274" duration="745000" />
+      <workItem from="1696990927850" duration="1983000" />
     </task>
     <task id="LOCAL-00008" summary="Update: 更新Go的一些参考网站">
       <created>1600054856706</created>
@@ -509,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696732300597</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="feat:新增多张背景图片">
+      <created>1696924365159</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1696924365161</updated>
+    </task>
+    <task id="LOCAL-00056" summary="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题">
+      <created>1696995352296</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1696995352297</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,8 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat：新增腾讯面试记录" />
-    <MESSAGE value="feat: 黑客帝国3部曲重刷观感(待补充完整)" />
     <MESSAGE value="feat: 2021部分总结" />
     <MESSAGE value="feat: 2022计划" />
     <MESSAGE value="feat: 4月杂想" />
@@ -578,6 +575,8 @@
     <MESSAGE value="feat: 每周照片第六期" />
     <MESSAGE value="fix: 背景图片格式错误" />
     <MESSAGE value="feat: 每周照片第七期" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 每周照片第七期" />
+    <MESSAGE value="feat:新增多张背景图片" />
+    <MESSAGE value="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题" />
   </component>
 </project>
