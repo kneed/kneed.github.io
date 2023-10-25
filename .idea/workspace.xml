@@ -19,9 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 数据插入数据库的两种方式分析">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-10-23-每周照片分享-第九期.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-10-23-近期阅读后的一些记录,思考.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 每周照片和近期的一些分享">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,14 +159,7 @@
       <workItem from="1693791722058" duration="15353000" />
       <workItem from="1696924223274" duration="745000" />
       <workItem from="1696990927850" duration="5889000" />
-      <workItem from="1698049815632" duration="615000" />
-    </task>
-    <task id="LOCAL-00010" summary="Update: 两篇文章">
-      <created>1600391541969</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1600391541969</updated>
+      <workItem from="1698049815632" duration="1211000" />
     </task>
     <task id="LOCAL-00011" summary="Update: 进程,线程">
       <created>1601258317479</created>
@@ -506,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697709693071</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="feat: 每周照片和近期的一些分享">
+      <created>1698117507766</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117507768</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 4月杂想" />
     <MESSAGE value="feat: 公司发展和个人发展" />
     <MESSAGE value="feat: 2022回顾和2023总结" />
     <MESSAGE value="feat: 各种回顾和新文章补上" />
@@ -575,6 +572,7 @@
     <MESSAGE value="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题" />
     <MESSAGE value="feat:每周照片-第八周" />
     <MESSAGE value="feat: 数据插入数据库的两种方式分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 数据插入数据库的两种方式分析" />
+    <MESSAGE value="feat: 每周照片和近期的一些分享" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 每周照片和近期的一些分享" />
   </component>
 </project>
