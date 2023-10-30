@@ -19,8 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 杰之交谈">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 杰之交谈-part2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-23-每周照片分享-第九期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-23-每周照片分享-第九期.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,14 +160,7 @@
       <workItem from="1693791722058" duration="15353000" />
       <workItem from="1696924223274" duration="745000" />
       <workItem from="1696990927850" duration="5889000" />
-      <workItem from="1698049815632" duration="1849000" />
-    </task>
-    <task id="LOCAL-00012" summary="Fix: tab问题">
-      <created>1601260681129</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1601260681129</updated>
+      <workItem from="1698049815632" duration="3403000" />
     </task>
     <task id="LOCAL-00013" summary="Update: new blog">
       <created>1602215187826</created>
@@ -504,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698218869018</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="feat: 杰之交谈-part2">
+      <created>1698373510352</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1698373510355</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 2022回顾和2023总结" />
     <MESSAGE value="feat: 各种回顾和新文章补上" />
     <MESSAGE value="feat: 修改了主页背景图片, 更新部分背景图" />
     <MESSAGE value="feat: 新增一个每周图片分享栏目" />
@@ -573,6 +573,7 @@
     <MESSAGE value="feat: 数据插入数据库的两种方式分析" />
     <MESSAGE value="feat: 每周照片和近期的一些分享" />
     <MESSAGE value="feat: 杰之交谈" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 杰之交谈" />
+    <MESSAGE value="feat: 杰之交谈-part2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 杰之交谈-part2" />
   </component>
 </project>
