@@ -19,9 +19,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:每周照片第十期">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-10-27-与杰之交谈-p3.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:与杰之交谈,浅谈了意义,哲学.">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-01-读-1973年的子弹球.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-02-与杰之交谈-p4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-03-对经济的新的认识.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,14 +172,7 @@
       <workItem from="1693791722058" duration="15353000" />
       <workItem from="1696924223274" duration="745000" />
       <workItem from="1696990927850" duration="5889000" />
-      <workItem from="1698049815632" duration="4721000" />
-    </task>
-    <task id="LOCAL-00014" summary="Update: markdown配合图床IPic">
-      <created>1607936525284</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1607936525284</updated>
+      <workItem from="1698049815632" duration="6663000" />
     </task>
     <task id="LOCAL-00015" summary="Update: 记一次python和数据库死锁问题的排查">
       <created>1610701710470</created>
@@ -513,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698653623266</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="feat:与杰之交谈,浅谈了意义,哲学.">
+      <created>1698659767531</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1698659767532</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 修改了主页背景图片, 更新部分背景图" />
     <MESSAGE value="feat: 新增一个每周图片分享栏目" />
     <MESSAGE value="chore: 替换大小过大的图片,避免加载太慢" />
     <MESSAGE value="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片" />
@@ -582,6 +585,7 @@
     <MESSAGE value="feat: 杰之交谈" />
     <MESSAGE value="feat: 杰之交谈-part2" />
     <MESSAGE value="feat:每周照片第十期" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:每周照片第十期" />
+    <MESSAGE value="feat:与杰之交谈,浅谈了意义,哲学." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:与杰之交谈,浅谈了意义,哲学." />
   </component>
 </project>
