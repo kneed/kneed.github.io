@@ -19,13 +19,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:与杰之交谈,浅谈了意义,哲学.">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-01-读-1973年的子弹球.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-02-与杰之交谈-p4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-03-对经济的新的认识.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 打包几篇文章">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-06-每周照片分享-第十一期.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-google.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tag15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tag15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tag16.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,14 +171,7 @@
       <workItem from="1693791722058" duration="15353000" />
       <workItem from="1696924223274" duration="745000" />
       <workItem from="1696990927850" duration="5889000" />
-      <workItem from="1698049815632" duration="6663000" />
-    </task>
-    <task id="LOCAL-00015" summary="Update: 记一次python和数据库死锁问题的排查">
-      <created>1610701710470</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1610701710470</updated>
+      <workItem from="1698049815632" duration="8068000" />
     </task>
     <task id="LOCAL-00016" summary="Update: 记一次python和数据库死锁问题的排查">
       <created>1610701861121</created>
@@ -517,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698659767532</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="feat: 打包几篇文章">
+      <created>1699005790758</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1699005790759</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 新增一个每周图片分享栏目" />
     <MESSAGE value="chore: 替换大小过大的图片,避免加载太慢" />
     <MESSAGE value="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片" />
     <MESSAGE value="fix: 修复图片问题&#10;&#10;整理部分文章" />
@@ -586,6 +584,7 @@
     <MESSAGE value="feat: 杰之交谈-part2" />
     <MESSAGE value="feat:每周照片第十期" />
     <MESSAGE value="feat:与杰之交谈,浅谈了意义,哲学." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:与杰之交谈,浅谈了意义,哲学." />
+    <MESSAGE value="feat: 打包几篇文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 打包几篇文章" />
   </component>
 </project>
