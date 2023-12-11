@@ -19,20 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="chore: 修改tag">
-      <change afterPath="$PROJECT_DIR$/img/tag16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tag22.jpg" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 新增一些背景图以及格式优化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-28-每周照片分享-第十四期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-28-每周照片分享-第十四期.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-29-纪念-查理芒格.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-29-纪念-查理芒格.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tag1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tag1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tag4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tag4.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,14 +169,8 @@
       <workItem from="1696990927850" duration="5889000" />
       <workItem from="1698049815632" duration="11922000" />
       <workItem from="1700546648429" duration="6907000" />
-      <workItem from="1701654288345" duration="595000" />
-    </task>
-    <task id="LOCAL-00027" summary="feat: gitignore增加idea无用文件">
-      <created>1619020125031</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1619020125031</updated>
+      <workItem from="1701654288345" duration="3711000" />
+      <workItem from="1702258718061" duration="511000" />
     </task>
     <task id="LOCAL-00028" summary="Feature: 伊芙琳的七次死亡">
       <created>1623853250442</created>
@@ -526,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701250242754</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="feat: 新增一些背景图以及格式优化">
+      <created>1701659069795</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1701659069795</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: 图片路径错误问题" />
     <MESSAGE value="feat: 每周照片第五期" />
     <MESSAGE value="feat: 每周照片第六期" />
     <MESSAGE value="fix: 背景图片格式错误" />
@@ -595,6 +583,7 @@
     <MESSAGE value="fix: 修正错误的日期格式" />
     <MESSAGE value="feat: 纪念查理芒格" />
     <MESSAGE value="chore: 修改tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: 修改tag" />
+    <MESSAGE value="feat: 新增一些背景图以及格式优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增一些背景图以及格式优化" />
   </component>
 </project>
