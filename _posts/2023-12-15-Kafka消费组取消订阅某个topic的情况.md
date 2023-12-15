@@ -3,7 +3,7 @@ layout:     post
 title:      "Kafka消费组取消订阅某个topic的情况"
 date:       2023-12-15 20:54
 author:     "Keal"
-header-img: "img/tag18.jpg"
+header-img: "img/tag19.jpg"
 catalog: true
 tags:
     - tech
