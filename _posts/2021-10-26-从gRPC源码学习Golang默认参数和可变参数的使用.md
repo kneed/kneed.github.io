@@ -9,7 +9,6 @@ catalog: true
 tags:
     - tech
     - go
- 
 ---
 
 ## Golang默认参数和可变参数

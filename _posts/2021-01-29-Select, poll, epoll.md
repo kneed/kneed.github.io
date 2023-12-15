@@ -7,7 +7,6 @@ header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - tech
-    - linux
 ---
 
 之前一直以为自己已经充分理解了select, poll, epoll,直到看到这样一个问题:

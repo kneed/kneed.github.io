@@ -9,8 +9,6 @@ catalog: true
 tags:
     - tech
     - go
- 
-
 ---
 
 ## Array

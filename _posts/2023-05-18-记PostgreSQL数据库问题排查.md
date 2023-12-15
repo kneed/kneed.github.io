@@ -8,8 +8,6 @@ header-img: "img/post-bg-alitrip.jpg"
 catalog: true
 tags:
     - tech
-    - database
-
 ---
 
 ## 背景

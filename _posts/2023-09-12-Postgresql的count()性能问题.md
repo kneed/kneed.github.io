@@ -7,8 +7,7 @@ author:     "Keal"
 header-img: "img/tag4.jpg"
 catalog: true
 tags:
-    - database
-
+    - tech
 ---
 
 最近工作中发现生产环境里一个sql慢的有点离谱,整整跑了近750s,12.5分钟! 还好是一个后台任务,对时间要求不是很大. 但是这么慢还是引起了我的好奇心, 所以本文深入研究了一下.

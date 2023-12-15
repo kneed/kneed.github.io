@@ -8,7 +8,6 @@ catalog: true
 tags:
     - tech
     - python
-    - concurrency
 ---
 
 ## 前言

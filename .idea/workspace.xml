@@ -19,8 +19,70 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 新增一些背景图以及格式优化">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 排查PostgreSQL性能问题">
+      <change afterPath="$PROJECT_DIR$/img/p_bg1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-04-New-Blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-04-New-Blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-17-Python多进程下信号处理的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-17-Python多进程下信号处理的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-24-进程,线程在Linux和Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-24-进程,线程在Linux和Python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-浅谈架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-28-浅谈架构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-09-Sqlalchemy-add,-flush-and-commit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-09-Sqlalchemy-add,-flush-and-commit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-13-MacOS环境下Markdown结合Ipic图床工具,解决图片保存问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-15-记一次python和数据库死锁问题的排查.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-29-Select, poll, epoll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-29-Select, poll, epoll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-07-分布式事务.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-07-分布式事务.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-11-Linux写文件场景下的几个问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-11-Linux写文件场景下的几个问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-12-一些关于HTTP的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-12-一些关于HTTP的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-19-Golang之Context.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-07-19-Golang之Context.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-20-Golang之Channel.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-07-20-Golang之Channel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-10-Golang踩坑记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-10-Golang踩坑记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-19-Golang之array,slice,map的底层实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-19-Golang之array,slice,map的底层实现.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-26-从gRPC源码学习Golang默认参数和可变参数的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-10-26-从gRPC源码学习Golang默认参数和可变参数的使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-05-黑客帝国3刷观感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-02-07-2021读书总结&amp;2022计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-02-07-2021读书总结&amp;2022计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-03-03-关于HTTP全用POST的一些思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-11-14-人生思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-24-2022回顾&amp;2023计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-02-我理解的经济的现状.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-02-我理解的经济的现状.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-18-记PostgreSQL数据库问题排查.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-18-记PostgreSQL数据库问题排查.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-09-Postgres数据库的索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-06-09-Postgres数据库的索引.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-30-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-06-30-亲密关系.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-07-02-读-非理性繁荣.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-07-02-读-非理性繁荣.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-07-21-中美芯片战争.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-07-21-中美芯片战争.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-28-每周照片分享.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-28-每周照片分享.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-04-每周照片分享.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-04-每周照片分享.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-11-每周照片分享.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-11-每周照片分享.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-12-Postgresql的count()性能问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-18-每周照片分享.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-18-每周照片分享.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-20-关于租房买房的一些深入研究.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-20-关于租房买房的一些深入研究.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-25-每周照片分享-第五期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-09-25-每周照片分享-第五期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-01-每周照片分享-第六期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-01-每周照片分享-第六期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-07-每周照片分享-第七期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-07-每周照片分享-第七期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-16-每周照片分享-第八期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-16-每周照片分享-第八期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-23-每周照片分享-第九期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-23-每周照片分享-第九期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-23-近期阅读后的一些记录,思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-23-近期阅读后的一些记录,思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-24-与杰之交谈.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-24-与杰之交谈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-26-与杰之交谈-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-26-与杰之交谈-p2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-27-与杰之交谈-p3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-27-与杰之交谈-p3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-30-每周照片分享-第十期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-10-30-每周照片分享-第十期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-02-与杰之交谈-p4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-02-与杰之交谈-p4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-03-对经济的新的认识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-03-对经济的新的认识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-06-每周照片分享-第十一期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-06-每周照片分享-第十一期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-13-每周照片分享-第十二期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-13-每周照片分享-第十二期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-21-网络连接的各种超时情况解释.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-21-网络连接的各种超时情况解释.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-22-每周照片分享-第十三期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-22-每周照片分享-第十三期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-28-每周照片分享-第十四期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-28-每周照片分享-第十四期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-29-纪念-查理芒格.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-29-纪念-查理芒格.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-01-随笔-其一.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-01-随笔-其一.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,21 +232,7 @@
       <workItem from="1698049815632" duration="11922000" />
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
-      <workItem from="1702258718061" duration="511000" />
-    </task>
-    <task id="LOCAL-00028" summary="Feature: 伊芙琳的七次死亡">
-      <created>1623853250442</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1623853250442</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Feat: golang之go的调度(未完待续)">
-      <created>1626107982536</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1626107982536</updated>
+      <workItem from="1702258718061" duration="3986000" />
     </task>
     <task id="LOCAL-00030" summary="Feat: defer关键字">
       <created>1626193474079</created>
@@ -515,7 +563,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701659069795</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="feat: 12月随笔">
+      <created>1702279633987</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1702279633987</updated>
+    </task>
+    <task id="LOCAL-00078" summary="feat: 排查PostgreSQL性能问题">
+      <created>1702279705227</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1702279705227</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,8 +621,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 每周照片第五期" />
-    <MESSAGE value="feat: 每周照片第六期" />
     <MESSAGE value="fix: 背景图片格式错误" />
     <MESSAGE value="feat: 每周照片第七期" />
     <MESSAGE value="feat:新增多张背景图片" />
@@ -584,6 +644,8 @@
     <MESSAGE value="feat: 纪念查理芒格" />
     <MESSAGE value="chore: 修改tag" />
     <MESSAGE value="feat: 新增一些背景图以及格式优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增一些背景图以及格式优化" />
+    <MESSAGE value="feat: 12月随笔" />
+    <MESSAGE value="feat: 排查PostgreSQL性能问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 排查PostgreSQL性能问题" />
   </component>
 </project>
