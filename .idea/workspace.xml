@@ -19,9 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="chore: 优化tag分类,删掉过期文章">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="chore: 更换背景">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-09-24-摄影学习记录.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,21 +172,7 @@
       <workItem from="1698049815632" duration="11922000" />
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
-      <workItem from="1702258718061" duration="5024000" />
-    </task>
-    <task id="LOCAL-00031" summary="Feat: defer关键字">
-      <created>1626193501720</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1626193501720</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Feat: golang之类型比较">
-      <created>1626279740535</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1626279740535</updated>
+      <workItem from="1702258718061" duration="6649000" />
     </task>
     <task id="LOCAL-00033" summary="style: 调整下格式">
       <created>1626280263566</created>
@@ -516,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702624330549</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="feat: kafka的一个小问题排查">
+      <created>1702635778650</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1702635778650</updated>
+    </task>
+    <task id="LOCAL-00081" summary="chore: 更换背景">
+      <created>1702635979992</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1702635979992</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,8 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 每周照片第七期" />
-    <MESSAGE value="feat:新增多张背景图片" />
     <MESSAGE value="feat:为每周照片新加了几张梗图顺便修复了小爱的照片没上传的问题" />
     <MESSAGE value="feat:每周照片-第八周" />
     <MESSAGE value="feat: 数据插入数据库的两种方式分析" />
@@ -585,6 +584,8 @@
     <MESSAGE value="feat: 12月随笔" />
     <MESSAGE value="feat: 排查PostgreSQL性能问题" />
     <MESSAGE value="chore: 优化tag分类,删掉过期文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: 优化tag分类,删掉过期文章" />
+    <MESSAGE value="feat: kafka的一个小问题排查" />
+    <MESSAGE value="chore: 更换背景" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: 更换背景" />
   </component>
 </project>
