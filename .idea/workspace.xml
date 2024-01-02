@@ -19,9 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="fix: 并非只是阅读总结">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 换个明亮点的背景">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023阅读年终总结.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,21 +171,7 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="3602000" />
-    </task>
-    <task id="LOCAL-00037" summary="feat: 各种回顾和新文章补上">
-      <created>1689933104391</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1689933104391</updated>
-    </task>
-    <task id="LOCAL-00038" summary="feat: 修改了主页背景图片, 更新部分背景图">
-      <created>1690271069495</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1690271069496</updated>
+      <workItem from="1703647157126" duration="4477000" />
     </task>
     <task id="LOCAL-00039" summary="feat: 新增一个每周图片分享栏目">
       <created>1693291334633</created>
@@ -517,7 +502,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704167379527</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="fix: 并非只是阅读总结">
+      <created>1704167469461</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1704167469461</updated>
+    </task>
+    <task id="LOCAL-00087" summary="feat: 换个明亮点的背景">
+      <created>1704167515786</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1704167515786</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 杰之交谈" />
     <MESSAGE value="feat: 杰之交谈-part2" />
     <MESSAGE value="feat:每周照片第十期" />
     <MESSAGE value="feat:与杰之交谈,浅谈了意义,哲学." />
@@ -586,6 +584,7 @@
     <MESSAGE value="ci: 更新主页的背景图片" />
     <MESSAGE value="feat: 年终总结跟12月照片一起发" />
     <MESSAGE value="fix: 并非只是阅读总结" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 并非只是阅读总结" />
+    <MESSAGE value="feat: 换个明亮点的背景" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 换个明亮点的背景" />
   </component>
 </project>
