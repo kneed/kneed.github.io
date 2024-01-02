@@ -19,7 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="ci: 更新主页的背景图片">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 年终总结跟12月照片一起发">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023阅读年终总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,14 +173,7 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="2819000" />
-    </task>
-    <task id="LOCAL-00035" summary="feat: 多篇文章修改, 更新Golang之Context">
-      <created>1626881274736</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1626881274736</updated>
+      <workItem from="1703647157126" duration="3311000" />
     </task>
     <task id="LOCAL-00036" summary="feat: 2022回顾和2023总结">
       <created>1677229288938</created>
@@ -516,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703657241153</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="feat: 年终总结跟12月照片一起发">
+      <created>1704167029192</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1704167029192</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 数据插入数据库的两种方式分析" />
     <MESSAGE value="feat: 每周照片和近期的一些分享" />
     <MESSAGE value="feat: 杰之交谈" />
     <MESSAGE value="feat: 杰之交谈-part2" />
@@ -585,6 +586,7 @@
     <MESSAGE value="chore: 更换背景" />
     <MESSAGE value="feat: 旧文补发" />
     <MESSAGE value="ci: 更新主页的背景图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci: 更新主页的背景图片" />
+    <MESSAGE value="feat: 年终总结跟12月照片一起发" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 年终总结跟12月照片一起发" />
   </component>
 </project>
