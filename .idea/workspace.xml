@@ -19,8 +19,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 换个明亮点的背景">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="chore: 优化了部分文章">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-15-Kafka消费组取消订阅某个topic的情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-15-Kafka消费组取消订阅某个topic的情况.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023年终总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023年终总结.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,14 +175,7 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="4477000" />
-    </task>
-    <task id="LOCAL-00039" summary="feat: 新增一个每周图片分享栏目">
-      <created>1693291334633</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1693291334634</updated>
+      <workItem from="1703647157126" duration="6858000" />
     </task>
     <task id="LOCAL-00040" summary="chore: 替换大小过大的图片,避免加载太慢">
       <created>1693359133385</created>
@@ -516,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704167515786</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="fix: 错误上传了一张图片">
+      <created>1704180015928</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1704180015929</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 杰之交谈-part2" />
     <MESSAGE value="feat:每周照片第十期" />
     <MESSAGE value="feat:与杰之交谈,浅谈了意义,哲学." />
     <MESSAGE value="feat: 打包几篇文章" />
@@ -585,6 +588,7 @@
     <MESSAGE value="feat: 年终总结跟12月照片一起发" />
     <MESSAGE value="fix: 并非只是阅读总结" />
     <MESSAGE value="feat: 换个明亮点的背景" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 换个明亮点的背景" />
+    <MESSAGE value="fix: 错误上传了一张图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: 错误上传了一张图片" />
   </component>
 </project>

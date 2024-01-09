@@ -64,6 +64,10 @@ kafka有一个配置`offset.retention.minutes`, 这个配置是用来保留offse
 
 在这两者比较下,设计上如何取舍也很好理解了
 
+### 更新
+
+在我们使用的kafka2.5.0环境中,发现并没有按预期的删除消费组取消订阅的topic的相关offset信息.继续查找之后,在kafka2.8.0版本之后,通过支持了delete offset操作, 可以再消费组运行时删除相关offset信息,避免lag堆积导致告警的问题.
+
 ### Reference
 
 [kafka官方文档](https://kafka.apache.org/documentation/#brokerconfigs_offsets.retention.minutes)
