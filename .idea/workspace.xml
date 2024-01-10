@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="chore: 优化了部分文章">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-06-散文一篇.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-12-15-Kafka消费组取消订阅某个topic的情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-15-Kafka消费组取消订阅某个topic的情况.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-13-每周照片分享-第十二期.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-13-每周照片分享-第十二期.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023年终总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023年终总结.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,14 +173,7 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="6858000" />
-    </task>
-    <task id="LOCAL-00040" summary="chore: 替换大小过大的图片,避免加载太慢">
-      <created>1693359133385</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1693359133385</updated>
+      <workItem from="1703647157126" duration="8650000" />
     </task>
     <task id="LOCAL-00041" summary="feat: 新增每周照片分享以及其他&#10;&#10;调整一些格式问题&#10;&lt;&lt;亲密关系&gt;&gt;阅读知识汇总&#10;补充一些背景用的图片">
       <created>1693809642173</created>
@@ -520,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704180015929</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="chore: 优化了部分文章">
+      <created>1704768196459</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1704768196460</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat:每周照片第十期" />
     <MESSAGE value="feat:与杰之交谈,浅谈了意义,哲学." />
     <MESSAGE value="feat: 打包几篇文章" />
     <MESSAGE value="feat: 每周照片第十一期" />
@@ -589,6 +586,7 @@
     <MESSAGE value="fix: 并非只是阅读总结" />
     <MESSAGE value="feat: 换个明亮点的背景" />
     <MESSAGE value="fix: 错误上传了一张图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 错误上传了一张图片" />
+    <MESSAGE value="chore: 优化了部分文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: 优化了部分文章" />
   </component>
 </project>
