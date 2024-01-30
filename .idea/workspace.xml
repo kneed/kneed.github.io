@@ -19,8 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 读`漫步华尔街">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="fix: 格式错误导致渲染出了问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-01-10-读-漫步华尔街.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-10-读-漫步华尔街.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,14 +173,7 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="10325000" />
-    </task>
-    <task id="LOCAL-00044" summary="feat: 新增关于数据库count()的分析">
-      <created>1694500058709</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1694500058709</updated>
+      <workItem from="1703647157126" duration="13234000" />
     </task>
     <task id="LOCAL-00045" summary="feat: 每周照片更新">
       <created>1695004927237</created>
@@ -516,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705299337778</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="fix: 格式错误导致渲染出了问题">
+      <created>1705301346949</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1705301346949</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 散文一篇&#10;&#10;亲密关系进度更新" />
     <MESSAGE value="feat: 亲密关系阅读更新" />
     <MESSAGE value="feat: 我落泪,情绪心碎" />
     <MESSAGE value="feat: 排查问题后的网络情况分析总结" />
@@ -585,6 +586,7 @@
     <MESSAGE value="feat: 补充年终总结" />
     <MESSAGE value="fix: 补充照片上传链接" />
     <MESSAGE value="feat: 读`漫步华尔街" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 读`漫步华尔街" />
+    <MESSAGE value="fix: 格式错误导致渲染出了问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: 格式错误导致渲染出了问题" />
   </component>
 </project>
