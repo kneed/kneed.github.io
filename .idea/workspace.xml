@@ -19,21 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:补充婚礼合照">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-07-Go语言新认识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-07-Go语言新认识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-09-Go-struct的导出和未导出以及实践.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-09-Go-struct的导出和未导出以及实践.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-22-python里的str,bytes,unicode.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-22-python里的str,bytes,unicode.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-集群-分布式.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-集群-分布式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
-    </list>
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 2月合照,及浅谈绩效评估" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,21 +170,7 @@
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
       <workItem from="1703647157126" duration="16439000" />
-      <workItem from="1708219902539" duration="956000" />
-    </task>
-    <task id="LOCAL-00048" summary="feat:新增两篇文章">
-      <created>1695188795322</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1695188795322</updated>
-    </task>
-    <task id="LOCAL-00049" summary="feat:亲密关系-第六章第一次阅读完毕">
-      <created>1695188817208</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1695188817208</updated>
+      <workItem from="1708219902539" duration="1247000" />
     </task>
     <task id="LOCAL-00050" summary="fix: 图片路径错误问题">
       <created>1695286884284</created>
@@ -529,7 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707029796632</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="feat: 2月合照,及浅谈绩效评估">
+      <created>1709116402878</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1709116402879</updated>
+    </task>
+    <task id="LOCAL-00098" summary="feat: 2月合照,及浅谈绩效评估">
+      <created>1709116444555</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1709116444555</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 排查问题后的网络情况分析总结" />
     <MESSAGE value="feat: 每周照片分享13期" />
     <MESSAGE value="feat: 每周照片分享14期" />
     <MESSAGE value="fix: 修正错误的日期格式" />
@@ -598,6 +583,7 @@
     <MESSAGE value="fix: 格式错误导致渲染出了问题" />
     <MESSAGE value="feat:新增1月照片" />
     <MESSAGE value="feat:补充婚礼合照" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:补充婚礼合照" />
+    <MESSAGE value="feat: 2月合照,及浅谈绩效评估" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 2月合照,及浅谈绩效评估" />
   </component>
 </project>
