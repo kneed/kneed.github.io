@@ -19,10 +19,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="fix: 格式错误导致渲染出了问题">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat:补充婚礼合照">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-10-读-漫步华尔街.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-10-读-漫步华尔街.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-07-Go语言新认识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-07-Go语言新认识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-09-Go-struct的导出和未导出以及实践.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-09-Go-struct的导出和未导出以及实践.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-16-群众道德浅识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-16-对于996的思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-22-python里的str,bytes,unicode.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-22-python里的str,bytes,unicode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-05-倒排索引.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-07-谈谈MQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-集群-分布式.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-集群-分布式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-10-关于NE的一些不足.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-06-关于办一次储蓄卡的感悟.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-16-腾讯面试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-15-读-亲密关系.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,28 +183,8 @@
       <workItem from="1700546648429" duration="6907000" />
       <workItem from="1701654288345" duration="3711000" />
       <workItem from="1702258718061" duration="8555000" />
-      <workItem from="1703647157126" duration="13234000" />
-    </task>
-    <task id="LOCAL-00045" summary="feat: 每周照片更新">
-      <created>1695004927237</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1695004927237</updated>
-    </task>
-    <task id="LOCAL-00046" summary="feat: 亲密关系阅读进展更新">
-      <created>1695004939879</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1695004939879</updated>
-    </task>
-    <task id="LOCAL-00047" summary="style: 旧文章格式细节优化">
-      <created>1695188773190</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1695188773190</updated>
+      <workItem from="1703647157126" duration="16439000" />
+      <workItem from="1708219902539" duration="956000" />
     </task>
     <task id="LOCAL-00048" summary="feat:新增两篇文章">
       <created>1695188795322</created>
@@ -518,7 +508,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705301346949</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="feat:新增1月照片">
+      <created>1706602634339</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1706602634339</updated>
+    </task>
+    <task id="LOCAL-00095" summary="feat:新增1月照片">
+      <created>1706602769113</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1706602769113</updated>
+    </task>
+    <task id="LOCAL-00096" summary="feat:补充婚礼合照">
+      <created>1707029796632</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1707029796632</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,8 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 亲密关系阅读更新" />
-    <MESSAGE value="feat: 我落泪,情绪心碎" />
     <MESSAGE value="feat: 排查问题后的网络情况分析总结" />
     <MESSAGE value="feat: 每周照片分享13期" />
     <MESSAGE value="feat: 每周照片分享14期" />
@@ -587,6 +596,8 @@
     <MESSAGE value="fix: 补充照片上传链接" />
     <MESSAGE value="feat: 读`漫步华尔街" />
     <MESSAGE value="fix: 格式错误导致渲染出了问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 格式错误导致渲染出了问题" />
+    <MESSAGE value="feat:新增1月照片" />
+    <MESSAGE value="feat:补充婚礼合照" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:补充婚礼合照" />
   </component>
 </project>

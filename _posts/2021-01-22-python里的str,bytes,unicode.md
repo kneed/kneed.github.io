@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "python里的str,bytes,unicode"
+title:      "str,bytes,unicode in Python"
 date:       2021-01-22 13:22
 author:     "Keal"
 header-img: "img/post-bg-rwd.jpg"
