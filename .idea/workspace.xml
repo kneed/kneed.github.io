@@ -19,11 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 更新照片地址">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-03-13-浅谈DDD.md" afterDir="false" />
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 浅谈DDD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-04-纪念某人.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-02-2023-12月照片.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,14 +176,7 @@
       <workItem from="1702258718061" duration="8555000" />
       <workItem from="1703647157126" duration="16439000" />
       <workItem from="1708219902539" duration="1508000" />
-      <workItem from="1709693522124" duration="780000" />
-    </task>
-    <task id="LOCAL-00051" summary="feat: 每周照片第五期">
-      <created>1695607271442</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1695607271445</updated>
+      <workItem from="1709693522124" duration="1529000" />
     </task>
     <task id="LOCAL-00052" summary="feat: 每周照片第六期">
       <created>1696145849121</created>
@@ -524,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709116715985</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="feat: 浅谈DDD">
+      <created>1710315707756</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1710315707758</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 每周照片分享14期" />
     <MESSAGE value="fix: 修正错误的日期格式" />
     <MESSAGE value="feat: 纪念查理芒格" />
     <MESSAGE value="chore: 修改tag" />
@@ -593,6 +589,7 @@
     <MESSAGE value="feat:补充婚礼合照" />
     <MESSAGE value="feat: 2月合照,及浅谈绩效评估" />
     <MESSAGE value="feat: 更新照片地址" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 更新照片地址" />
+    <MESSAGE value="feat: 浅谈DDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 浅谈DDD" />
   </component>
 </project>
