@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 浅谈DDD">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 3月照片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,21 +176,8 @@
       <workItem from="1702258718061" duration="8555000" />
       <workItem from="1703647157126" duration="16439000" />
       <workItem from="1708219902539" duration="1508000" />
-      <workItem from="1709693522124" duration="1529000" />
-    </task>
-    <task id="LOCAL-00052" summary="feat: 每周照片第六期">
-      <created>1696145849121</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1696145849123</updated>
-    </task>
-    <task id="LOCAL-00053" summary="fix: 背景图片格式错误">
-      <created>1696145979025</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1696145979027</updated>
+      <workItem from="1709693522124" duration="2216000" />
+      <workItem from="1711937676581" duration="992000" />
     </task>
     <task id="LOCAL-00054" summary="feat: 每周照片第七期">
       <created>1696732300593</created>
@@ -521,7 +508,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710315707758</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="feat: 分支预测">
+      <created>1710473102457</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1710473102460</updated>
+    </task>
+    <task id="LOCAL-00102" summary="feat: 3月照片">
+      <created>1711939017354</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1711939017355</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,8 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: 修正错误的日期格式" />
-    <MESSAGE value="feat: 纪念查理芒格" />
     <MESSAGE value="chore: 修改tag" />
     <MESSAGE value="feat: 新增一些背景图以及格式优化" />
     <MESSAGE value="feat: 12月随笔" />
@@ -590,6 +589,8 @@
     <MESSAGE value="feat: 2月合照,及浅谈绩效评估" />
     <MESSAGE value="feat: 更新照片地址" />
     <MESSAGE value="feat: 浅谈DDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 浅谈DDD" />
+    <MESSAGE value="feat: 分支预测" />
+    <MESSAGE value="feat: 3月照片" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 3月照片" />
   </component>
 </project>
