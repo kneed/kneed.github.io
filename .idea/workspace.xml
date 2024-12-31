@@ -19,7 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 3月照片">
+    <list default="true" id="4e1b7d25-b183-4d3b-a305-269ab34feaa3" name="Default Changelist" comment="feat: 删除并替换不适合的背景图片">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-08-14-talk-show.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/第一部分，新质生产力是当下中国高质量发展的内在选择、必然选择.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,17 +70,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
@@ -179,6 +184,10 @@
       <workItem from="1711937676581" duration="992000" />
       <workItem from="1721115397001" duration="15000" />
       <workItem from="1721116086141" duration="405000" />
+      <workItem from="1721357821374" duration="13452000" />
+      <workItem from="1728466098432" duration="4679000" />
+      <workItem from="1730425502336" duration="2109000" />
+      <workItem from="1731059342910" duration="217000" />
     </task>
     <task id="LOCAL-00054" summary="feat: 每周照片第七期">
       <created>1696732300593</created>
@@ -523,7 +532,7 @@
       <option name="project" value="LOCAL" />
       <updated>1711939017355</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,20 +576,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chore: 修改tag" />
-    <MESSAGE value="feat: 新增一些背景图以及格式优化" />
-    <MESSAGE value="feat: 12月随笔" />
-    <MESSAGE value="feat: 排查PostgreSQL性能问题" />
-    <MESSAGE value="chore: 优化tag分类,删掉过期文章" />
-    <MESSAGE value="feat: kafka的一个小问题排查" />
-    <MESSAGE value="chore: 更换背景" />
-    <MESSAGE value="feat: 旧文补发" />
-    <MESSAGE value="ci: 更新主页的背景图片" />
-    <MESSAGE value="feat: 年终总结跟12月照片一起发" />
-    <MESSAGE value="fix: 并非只是阅读总结" />
-    <MESSAGE value="feat: 换个明亮点的背景" />
-    <MESSAGE value="fix: 错误上传了一张图片" />
-    <MESSAGE value="chore: 优化了部分文章" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: 补充年终总结" />
     <MESSAGE value="fix: 补充照片上传链接" />
     <MESSAGE value="feat: 读`漫步华尔街" />
@@ -592,6 +588,20 @@
     <MESSAGE value="feat: 浅谈DDD" />
     <MESSAGE value="feat: 分支预测" />
     <MESSAGE value="feat: 3月照片" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 3月照片" />
+    <MESSAGE value="feat: 第一次办护照" />
+    <MESSAGE value="feat: 密室逃脱-晴天娃娃" />
+    <MESSAGE value="fix: 删除多余的照片" />
+    <MESSAGE value="feat: 7月随笔" />
+    <MESSAGE value="feat: 读天涯KK关于房地产的帖子感受" />
+    <MESSAGE value="fix: 删除非必要的图片" />
+    <MESSAGE value="fix: 稍微补充一些前后文" />
+    <MESSAGE value="feat: 9月有感" />
+    <MESSAGE value="feat: 国庆小记" />
+    <MESSAGE value="feat: 为什么redis可以这么快" />
+    <MESSAGE value="style: 措辞的一些调整" />
+    <MESSAGE value="chore: 小小修改" />
+    <MESSAGE value="feat: 写在11月前的最后一天" />
+    <MESSAGE value="feat: 删除并替换不适合的背景图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 删除并替换不适合的背景图片" />
   </component>
 </project>
