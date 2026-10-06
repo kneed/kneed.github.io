@@ -1,0 +1,34 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "",
+  "picgoCorePath": "",
+  "workOnNetWork": false,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "imageDesc": "origin",
+  "remoteServerMode": false,
+  "uploadedImages": [
+    {
+      "isEncrypted": 1,
+      "EncryptedData": "6630f27d9aec52f82efbdd5e027656d6:80e74d75a75da18da32cb4b273ef259e4cc4bfd528dcf43e59e28e936effdad9ff3af75ebea5236c5ed6244c95208f1b038055035547df8b83e4a88d4db2d3c29e09554779694d3688df801c8291ce3f999dfbda7347b1b0ccd75deaa41947239f1e451895adcbea96db05af4c862f6b32284a089dac9400074e8b2774c2132032813981cfef40ed69cf824343701c6af67c769bd9a800fb0cda6c37d53414fa96fbef3ac1b838007d0c4c5b82500eed551360b1140ecf9973b000e9371b0f497086ccccc27e0a9fb256b3e975a6ed1202cd088dd8d88919ff047bf5c16f247e526454d341208cf948e5d8b97ad7d5853b9c5064fbbc05a6360c9e623fcb9b87b1e48b51b5b1147482a5ffc1bfb5b137512557d55b0d2ef4c0d819d25c25d9340abb570b628c3d25a13e3f7123de513694ed34ef411c9a21af32864b5d24f0c89863a872585db084e269f0bc059ce4497fba1bf823d3f39a70ddfe45baffb897e9c6b2ea0b38f74bee82ac5dfa29062470242790b90f7665693b5b74509fed096aab209dcbc86dff9573c6a1a3632f273f8f140f8c59c52b7b35281ac0947ab145754693ae96e8074e2a7b22e04ee7479457225b480567f208e737a643ef4913e762a0277b2e200540a83946ebaa53f985a6e99e1059b8254c3b3fe359ae6f921c89872eb0c586abc36add5fa43667d512ec34621f729301e10d2a4cbdd0c180398eb293be23a44b0d76a198bfcfa47e7dcbb15c1369c7fb6590950f65d71a338d6bf2a256b30fea637cd61139e77b9b115ad9d30b94637e4c0d99d501b41ff94937ea5f48884be5e35ef9b4148d08492e7986fd4390efdda20c0f76fc1fe1c90e426182c3f0bb81d2988eed48b7c0c4c1d5f956005918376eff23898d058b59b14bd4fa3b52affceb0514ff0ac9577f06311d87648d0b03451ac7eb68fe7f21b0052fa4891cade50baa6bfae3906e2561e466d3ace4b58841010695cc45e866bc999972ea01a201e21f90621ed13a452c5e1dec147c44107b4428313bedbe73b62f0cfe4df4304eab3f4fde520157fb40a140592570e8d2cce18f2f24e9747990669bfc3479bf4d1ae5cc35ea811e7fe32311e184b2a744b25e8fa46c6063acbef11f61be46176423f9fd4911881158a2bad55c8bbc2201360e3079d28da94b",
+      "fileName": "20260827144006318.png",
+      "width": 1540,
+      "height": 690,
+      "filePath": "/Users/xieke/Library/Application Support/piclist/piclist-clipboard-images/20260827144006318.png",
+      "extname": ".png",
+      "mimeType": "image/png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/kneed/typora_img_respository/img/20260827144006318.png",
+      "hash": "059e268cbdaf209ba45970237bebf41f7ec927f4",
+      "type": "github",
+      "shortUrl": "",
+      "id": "18acf3b8-3094-467a-89be-10f38d44bcfe",
+      "createdAt": 1787812812884,
+      "updatedAt": 1787812812884
+    }
+  ]
+}

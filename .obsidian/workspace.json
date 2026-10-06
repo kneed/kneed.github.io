@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "531e102fa160b4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9bc24a4826bc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df01826038d38ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2020-09-28-浅谈架构.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2020-09-28-浅谈架构"
+            }
+          },
+          {
+            "id": "77a3f2937d4da4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-10-06-记中秋&国庆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-06-记中秋&国庆"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daf24a3848f4e590",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d95b91417c0640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be7dbe45635b415",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4e950d30cd30f5df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f4b0fc98944fdd1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9a60627510c47a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f206fc3c32589f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e530ac278f9f2726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6e29b5cec79e4037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "72716c785ae37061",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "67e61b9931aa22a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9a121dded1e210fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2026-10-06-记中秋&国庆.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "5b3efa999f6f975e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5b3efa999f6f975e",
+  "lastOpenFiles": [
+    "_posts/2026-08-29-孤独.md",
+    "_posts/2026-10-06-记中秋&国庆.md",
+    "_posts/2020-09-28-浅谈架构.md",
+    "_posts/2023-08-15-读-亲密关系.md",
+    "_posts/2023-11-01-读-1973年的子弹球.md",
+    "_posts/2024-01-10-读-漫步华尔街.md",
+    "_posts/2021-02-25-go和python的垃圾回收机制.md",
+    "_posts/2021-03-11-Linux写文件场景下的几个问题.md",
+    "_posts/2024-07-29-密室逃脱感受-晴天娃娃.md",
+    "_posts/2025-12-25-珠海两日游.md",
+    "_posts/2025-10-15-Why-Go.md",
+    "_posts/2021-03-10-面试记录.md",
+    "_posts/2024-09-02-9月了.md",
+    "_posts/2024-10-08-国庆.md",
+    "_posts/2023-07-21-中美芯片战争.md",
+    "_posts/2023-08-28-每周照片分享.md",
+    "_posts/2023-08-04-纪念某人.md",
+    "_posts/2025-01-20-看雄狮少年2的前后.md",
+    "_posts/2024-10-31-写在11月开始前的最后一天.md",
+    "_posts/2024-07-24-随笔.md",
+    "_posts/2024-07-19-第一次办护照.md",
+    "_posts/2024-07-12-照片分享.md",
+    "_posts/2024-04-01-2024-3月照片.md",
+    "_posts/2024-02-28-2024-2月照片.md",
+    "_posts/2024-01-31-浅谈绩效评估.md",
+    "_posts/2024-01-30-2024-1月照片.md"
+  ]
+}
