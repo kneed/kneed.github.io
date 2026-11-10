@@ -4,7 +4,7 @@ title:      "Golang之context"
 subtitle:   "\"context for ?\""
 date:       2021-07-15 21:28:00
 author:     "Keal"
-header-img: "img/post-bg-go-4.png"
+header-img: "img/post-bg-go-4.jpg"
 catalog: true
 tags:
     - tech
@@ -28,13 +28,13 @@ type Context interface {
 
 **图 Golang_Without_Context**
 
-![golang-without-context](https://tva1.sinaimg.cn/large/008i3skNgy1gsjzzczhrxj30xc0aa3yu.jpg)
+![golang-without-context](/img/in-post/sina/008i3skNgy1gsjzzczhrxj30xc0aa3yu.jpg)
 
 在没有context的情况下,下层的goroutine实际上感知不了上层的情况,比如最上层是一个http请求,中间有一个数据库redis的请求,下面是一个数据库的请求. 如果最上层的goroutine取消了这次请求,那么下层所有的请求都应该尽快的终止,因为此时返回结果已经没有意义了.
 
 **图 Golang_With_Context**
 
-![golang-with-context](https://tva1.sinaimg.cn/large/008i3skNgy1gsk034sqgsj30xc0aajrp.jpg)
+![golang-with-context](/img/in-post/sina/008i3skNgy1gsk034sqgsj30xc0aajrp.jpg)
 
 OK. 回到Context接口的四个方法里
 

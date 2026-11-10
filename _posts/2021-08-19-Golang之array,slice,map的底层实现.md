@@ -4,7 +4,7 @@ title:      "Golang之array,slice,map的底层实现"
 subtitle:   "Slice, Map"
 date:       2021-10-06 11:38:00
 author:     "Keal"
-header-img: "img/post-bg-go-4.png"
+header-img: "img/post-bg-go-4.jpg"
 catalog: true
 tags:
     - tech
@@ -40,7 +40,7 @@ arr2 := [...]int{1, 2, 3}
 
 Slice是一种动态的数组,与数组相比,增加了三个属性: prt(指向数组的指针), len(切片的长度), cap(切片的容量)
 
-![image-20211007094234486](https://tva1.sinaimg.cn/large/008i3skNgy1gv6i3pilr2j60vg0cumxn02.jpg)
+![image-20211007094234486](/img/in-post/sina/008i3skNgy1gv6i3pilr2j60vg0cumxn02.jpg)
 
 #### 声明切片的几种方式
 

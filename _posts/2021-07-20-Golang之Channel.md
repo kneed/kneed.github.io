@@ -4,7 +4,7 @@ title:      "Golang之Channel"
 subtitle:   "\"channel chan?\""
 date:       2021-07-25 21:28:00
 author:     "Keal"
-header-img: "img/post-bg-go-4.png"
+header-img: "img/post-bg-go-4.jpg"
 catalog: true
 tags:
     - tech

@@ -4,7 +4,7 @@ title:      "Golang之defer"
 subtitle:   "\"defer\""
 date:       2021-07-13 19:22:00
 author:     "Keal"
-header-img: "img/post-bg-go-4.png"
+header-img: "img/post-bg-go-4.jpg"
 catalog: true
 tags:
     - tech

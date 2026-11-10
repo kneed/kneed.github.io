@@ -4,7 +4,7 @@ title:      "Golang之select"
 subtitle:   "\"select for ?\""
 date:       2021-07-15 21:28:00
 author:     "Keal"
-header-img: "img/post-bg-go-1.png"
+header-img: "img/post-bg-go-1.jpg"
 catalog: true
 tags:
     - tech

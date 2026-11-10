@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 zhihu_username:     xie-xiao-ke-90
 github_username:    kneed
 
@@ -22,10 +22,10 @@ github_username:    kneed
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","package-lock.json","README.md","README.zh.md","Gemfile","Gemfile.lock","Rakefile","LICENSE","_doc"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+timezone: Asia/Shanghai
 
 
 
@@ -33,7 +33,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 
 
@@ -53,11 +53,13 @@ kramdown:
 
 
 
-# Disqus settings
-disqus_username: kealsg
-
-# Netease settings
-netease_comment: false
+# Giscus settings
+# get repo_id / category_id from https://giscus.app
+giscus:
+  repo: kneed/kneed.github.io
+  repo_id: MDEwOlJlcG9zaXRvcnkyOTI3Nzg1MjQ=
+  category: Announcements
+  category_id: DIC_kwDOEXNyHM4DKzDb
 
 
 

@@ -25,7 +25,7 @@ tags:
 4.  信号驱动 I/O（ signal driven IO）
 5.  异步 I/O（asynchronous IO）
 
-![clipboard.png](https://tva1.sinaimg.cn/large/008eGmZEgy1gn4v5tv7c2j30h2093gnt.jpg)
+![clipboard.png](/img/in-post/sina/008eGmZEgy1gn4v5tv7c2j30h2093gnt.jpg)
 
 这里面需要理解的一个关键点是: 数据是先到内核, 在到用户进程. 举个例子,你在你的用户进程里发起了一个recvfrom调用,那么就会有两个等待:
 
