@@ -25,7 +25,7 @@ layout: default
                     {% include multilingual-sel.html %}
                 {% endif %}
 
-				{{ content }}
+				{{ content | replace: '<img ', '<img loading="lazy" ' }}
 
                 <hr style="visibility: hidden;">
                 <ul class="pager">
@@ -104,7 +104,7 @@ layout: default
 </script>
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
-    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
+    async("{{ '/js/anchor.min.js' | prepend: site.baseurl }}",function(){
         anchors.options = {
           visible: 'hover',
           placement: 'right',
@@ -125,3 +125,6 @@ layout: default
     }
 </style>
 {% endif %}
+
+<!-- click to zoom images in post -->
+<script src="{{ '/js/img-zoom.js' | prepend: site.baseurl }}" defer></script>
