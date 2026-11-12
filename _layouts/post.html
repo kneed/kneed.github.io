@@ -128,3 +128,16 @@ layout: default
 
 <!-- click to zoom images in post -->
 <script src="{{ '/js/img-zoom.js' | prepend: site.baseurl }}" defer></script>
+
+{% if page.mermaid %}
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({
+    startOnLoad: false,
+    theme: "neutral",
+    securityLevel: "loose",
+    fontFamily: "-apple-system, BlinkMacSystemFont, PingFang SC, Helvetica Neue, Arial, sans-serif"
+  });
+  await mermaid.run({ querySelector: ".mermaid" });
+</script>
+{% endif %}

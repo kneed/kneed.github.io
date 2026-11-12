@@ -1,0 +1,270 @@
+/* Post widgets: callouts, cards, compare, fold, tables, mermaid.
+   Use inside Markdown via raw HTML. See _posts/2026-11-12 for examples. */
+
+.post-container > p.lead,
+.post-container p.lead {
+  font-size: 1.12em;
+  line-height: 1.75;
+  color: #3a3a3a;
+}
+
+.post-container mark,
+.post-container .hl {
+  background: linear-gradient(transparent 62%, rgba(0, 133, 161, 0.18) 62%);
+  padding: 0 0.12em;
+  color: inherit;
+}
+
+/* —— Callout —— */
+.post-container .callout {
+  margin: 1.6em 0;
+  padding: 0.95em 1.15em 0.95em 1.2em;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  border-left-width: 4px;
+  line-height: 1.7;
+}
+.post-container .callout > :first-child {
+  margin-top: 0;
+}
+.post-container .callout > :last-child {
+  margin-bottom: 0;
+}
+.post-container .callout p {
+  margin: 0.55em 0;
+}
+.post-container .callout-tip {
+  background: #f3f9fb;
+  border-color: #d5e8ee;
+  border-left-color: #0085a1;
+}
+.post-container .callout-note {
+  background: #f6f7f8;
+  border-color: #e6e8ea;
+  border-left-color: #8a9199;
+}
+.post-container .callout-warn {
+  background: #fff9ef;
+  border-color: #f3e4c5;
+  border-left-color: #d4a017;
+}
+.post-container .callout-danger {
+  background: #fdf4f4;
+  border-color: #f0d6d6;
+  border-left-color: #c45c5c;
+}
+.post-container .callout-ok {
+  background: #f3f8f5;
+  border-color: #d5e8dc;
+  border-left-color: #3d8b63;
+}
+
+/* —— Cards —— */
+.post-container .card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 1.7em 0;
+}
+.post-container .mech-card {
+  margin: 0;
+  padding: 16px 16px 14px;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  background: #fafbfc;
+  min-height: 100%;
+}
+.post-container .mech-card .kicker {
+  display: block;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 6px;
+  opacity: 0.85;
+}
+.post-container .mech-card strong {
+  display: block;
+  font-size: 1.05em;
+  margin-bottom: 6px;
+}
+.post-container .mech-card p {
+  margin: 0;
+  color: #666;
+  font-size: 0.95em;
+}
+.post-container .mech-card.is-param {
+  background: #fbf6ee;
+  border-color: #f0e2c8;
+}
+.post-container .mech-card.is-param .kicker {
+  color: #b56b12;
+}
+.post-container .mech-card.is-reason {
+  background: #f1f7f4;
+  border-color: #cfe3d8;
+}
+.post-container .mech-card.is-reason .kicker {
+  color: #2f7d5b;
+}
+.post-container .mech-card.is-tool {
+  background: #faf2f2;
+  border-color: #ecd0d0;
+}
+.post-container .mech-card.is-tool .kicker {
+  color: #b54a4a;
+}
+.post-container .mech-card.is-fake {
+  background: #f4f5f6;
+  border-color: #dde0e3;
+}
+.post-container .mech-card.is-fake .kicker {
+  color: #6b7280;
+}
+
+@media screen and (max-width: 720px) {
+  .post-container .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* —— Compare columns —— */
+.post-container .compare-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 1.7em 0;
+}
+.post-container .compare-col {
+  margin: 0;
+  padding: 16px 16px 12px;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  background: #fafbfc;
+}
+.post-container .compare-col > :first-child {
+  margin-top: 0;
+}
+.post-container .compare-col > :last-child {
+  margin-bottom: 0;
+}
+.post-container .compare-col .kicker {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: #0085a1;
+  margin-bottom: 8px;
+}
+.post-container .compare-col p {
+  margin: 0.5em 0;
+  font-size: 0.95em;
+}
+
+@media screen and (max-width: 720px) {
+  .post-container .compare-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* —— Fold —— */
+.post-container details.fold {
+  margin: 1.5em 0;
+  padding: 0.75em 1em;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+  background: #fafbfc;
+}
+.post-container details.fold summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+.post-container details.fold summary::-webkit-details-marker {
+  display: none;
+}
+.post-container details.fold summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.4em;
+  color: #0085a1;
+  transition: transform 0.15s ease;
+}
+.post-container details.fold[open] summary::before {
+  content: "▾";
+  transform: none;
+}
+.post-container details.fold summary + * {
+  margin-top: 0.8em;
+}
+
+/* —— Pull quote —— */
+.post-container blockquote.pull {
+  margin: 1.8em 0;
+  padding: 0.2em 0 0.2em 1.1em;
+  border-left: 3px solid #0085a1;
+  color: #333;
+  font-style: normal;
+  font-size: 1.05em;
+}
+
+/* —— Tables —— */
+.post-container table {
+  width: 100%;
+  margin: 1.5em 0 1.8em;
+  border-collapse: collapse;
+  font-size: 0.92em;
+  line-height: 1.55;
+  overflow: hidden;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+}
+.post-container table th,
+.post-container table td {
+  padding: 10px 12px;
+  border: 1px solid #eee;
+  vertical-align: top;
+}
+.post-container table thead th {
+  background: #f6f8f9;
+  font-weight: 600;
+  color: #333;
+  border-bottom-width: 1px;
+}
+.post-container table tbody tr:nth-child(even) {
+  background: #fafbfc;
+}
+.post-container table tbody tr:hover {
+  background: #f3f9fb;
+}
+
+@media screen and (max-width: 720px) {
+  .post-container table {
+    font-size: 0.86em;
+  }
+}
+
+/* —— Diagram —— */
+.post-container .diagram {
+  margin: 1.7em 0;
+  padding: 12px 8px;
+  border: 1px solid #ececec;
+  border-radius: 12px;
+  background: #fafbfc;
+  overflow-x: auto;
+  text-align: center;
+}
+.post-container .diagram .mermaid {
+  background: transparent;
+  margin: 0 auto;
+}
+.post-container .diagram svg {
+  max-width: 100%;
+  height: auto;
+}
+.post-container pre.mermaid {
+  background: transparent;
+  border: 0;
+  margin: 0;
+  text-align: center;
+}
