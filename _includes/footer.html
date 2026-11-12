@@ -21,22 +21,21 @@
 </footer>
 
 <!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/hux-blog.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Simple Jekyll Search -->
 <script src="{{ "/js/simple-jekyll-search.min.js" | prepend: site.baseurl }}"></script>
 
-<!-- Service Worker -->
+<!-- Unregister leftover Service Worker -->
 {% if site.service-worker %}
-<script src="{{ "/js/snackbar.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/sw-registration.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/sw-registration.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 
 <!-- async load function -->
@@ -103,7 +102,7 @@
         $('#tag_cloud a').tagcloud();
     })
 </script>
-<script src='{{ "/js/archive.js " | prepend: site.baseurl }}'></script>
+<script src='{{ "/js/archive.js" | prepend: site.baseurl }}'></script>
 {% endif %}
 
 <!-- Google Analytics -->
@@ -146,6 +145,7 @@
 
 
 <!-- Side Catalog -->
+{% if page.layout == 'post' %}
 {% unless page.no-catalog %}
 <script type="text/javascript">
     function generateCatalog(selector) {
@@ -205,6 +205,7 @@
     });
 </script>
 {% endunless %}
+{% endif %}
 
 
 <!-- Multi-Lingual -->
@@ -243,8 +244,10 @@
             $en.style.display = "none";
             $en.classList.remove("active");
         }
-        // interop with catalog 
-        generateCatalog(".catalog-body");
+        // interop with catalog
+        if (typeof generateCatalog === 'function') {
+            generateCatalog(".catalog-body");
+        }
     }
 
     // handle select change
