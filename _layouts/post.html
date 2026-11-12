@@ -15,10 +15,19 @@ layout: default
         <div class="row">
 
     <!-- Post Container -->
+            {% assign post_kind = page.kind | default: '' %}
+            {% if post_kind == '' %}
+              {% if page.tags contains 'tech' or page.tags contains 'python' or page.tags contains 'go' %}
+                {% assign post_kind = 'tech' %}
+              {% else %}
+                {% assign post_kind = 'essay' %}
+              {% endif %}
+            {% endif %}
             <div class="
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
-                post-container">
+                post-container
+                post-kind-{{ post_kind }}">
 
                 <!-- Multi-Lingual -->
                 {% if page.multilingual %}

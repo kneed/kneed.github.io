@@ -269,24 +269,33 @@
   text-align: center;
 }
 
-/* —— Global article polish (applies to every post) —— */
-.post-container > p:first-of-type {
+.post-container .card-grid.cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+@media screen and (max-width: 720px) {
+  .post-container .card-grid.cols-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* —— Tech posts: structured, scannable —— */
+.post-kind-tech > p:first-of-type {
   font-size: 1.1em;
   line-height: 1.8;
   color: #333;
 }
 
-.post-container > h2:first-child {
+.post-kind-tech > h2:first-child {
   margin-top: 12px;
 }
-.post-container > h2:first-child::before {
+.post-kind-tech > h2:first-child::before {
   content: none;
   display: none;
   margin: 0;
   border: 0;
 }
 
-.post-container blockquote:not(.pull) {
+.post-kind-tech blockquote:not(.pull) {
   background: #f7f8f9;
   border-left: 3px solid #c5d0d6;
   border-radius: 0 10px 10px 0;
@@ -295,28 +304,85 @@
   font-style: normal;
   font-size: 0.96em;
 }
-.post-container blockquote:not(.pull) p {
+.post-kind-tech blockquote:not(.pull) p {
   margin: 0.45em 0;
 }
 
-.post-container img {
+.post-kind-tech img {
   border-radius: 10px;
 }
 
-.post-container > ul > li,
-.post-container > ol > li {
+.post-kind-tech > ul > li,
+.post-kind-tech > ol > li {
   margin-bottom: 0.45em;
 }
 
-.post-container h3 {
+.post-kind-tech h3 {
   letter-spacing: -0.01em;
 }
 
-.post-container .card-grid.cols-2 {
-  grid-template-columns: repeat(2, 1fr);
+/* —— Essay / 生活 / 阅读: looser, like reading a book —— */
+.post-kind-essay {
+  font-size: 17px;
+  line-height: 2;
+  color: #3d3d3d;
 }
-@media screen and (max-width: 720px) {
-  .post-container .card-grid.cols-2 {
-    grid-template-columns: 1fr;
-  }
+
+.post-kind-essay > p {
+  margin: 1.15em 0;
+}
+
+.post-kind-essay > p:first-of-type {
+  font-size: 1em;
+  line-height: 2;
+  color: inherit;
+}
+
+.post-kind-essay h2 {
+  font-weight: 600;
+  font-size: 1.28em;
+  letter-spacing: 0.04em;
+  color: #2c2c2c;
+  margin: 2.2em 0 0.9em;
+}
+
+.post-kind-essay h2::before {
+  content: none;
+  display: none;
+  margin: 0;
+  border: 0;
+}
+
+.post-kind-essay h3,
+.post-kind-essay h4 {
+  font-weight: 600;
+  color: #555;
+  margin: 1.8em 0 0.7em;
+}
+
+.post-kind-essay blockquote:not(.pull) {
+  background: none;
+  border: 0;
+  border-left: 2px solid #d8d8d8;
+  border-radius: 0;
+  padding: 0.15em 0 0.15em 1.1em;
+  margin: 1.6em 0;
+  color: #6a6a6a;
+  font-style: italic;
+  font-size: 0.98em;
+}
+
+.post-kind-essay img {
+  border-radius: 4px;
+  margin: 1.8em auto;
+}
+
+.post-kind-essay > ul,
+.post-kind-essay > ol {
+  margin: 0.8em 0 1.4em;
+}
+
+.post-kind-essay > ul > li,
+.post-kind-essay > ol > li {
+  margin-bottom: 0.35em;
 }
