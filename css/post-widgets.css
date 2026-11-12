@@ -268,3 +268,55 @@
   margin: 0;
   text-align: center;
 }
+
+/* —— Global article polish (applies to every post) —— */
+.post-container > p:first-of-type {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: #333;
+}
+
+.post-container > h2:first-child {
+  margin-top: 12px;
+}
+.post-container > h2:first-child::before {
+  content: none;
+  display: none;
+  margin: 0;
+  border: 0;
+}
+
+.post-container blockquote:not(.pull) {
+  background: #f7f8f9;
+  border-left: 3px solid #c5d0d6;
+  border-radius: 0 10px 10px 0;
+  padding: 0.85em 1.15em;
+  color: #555;
+  font-style: normal;
+  font-size: 0.96em;
+}
+.post-container blockquote:not(.pull) p {
+  margin: 0.45em 0;
+}
+
+.post-container img {
+  border-radius: 10px;
+}
+
+.post-container > ul > li,
+.post-container > ol > li {
+  margin-bottom: 0.45em;
+}
+
+.post-container h3 {
+  letter-spacing: -0.01em;
+}
+
+.post-container .card-grid.cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+@media screen and (max-width: 720px) {
+  .post-container .card-grid.cols-2 {
+    grid-template-columns: 1fr;
+  }
+}

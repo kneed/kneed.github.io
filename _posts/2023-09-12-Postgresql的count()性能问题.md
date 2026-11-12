@@ -12,6 +12,12 @@ tags:
 
 最近工作中发现生产环境里一个sql慢的有点离谱,整整跑了近750s,12.5分钟! 还好是一个后台任务,对时间要求不是很大. 但是这么慢还是引起了我的好奇心, 所以本文深入研究了一下.
 
+<div class="callout callout-warn" markdown="1">
+
+一条 `count()` 扫了 **747 秒**。MySQL 印象里不至于这样，PostgreSQL 为什么一定要全表扫描？
+
+</div>
+
 ```sql
 2023-09-12 02:03:40 UTC:172.31.110.153(46482):kdmts@kdmts:[32237]:LOG: duration: 747989.755 ms statement: SELECT count(kdm.kdm.id) AS count, kdm.kdm.delivery_status AS kdm_kdm_delivery_status FROM kdm.kdm JOIN flm.device ON flm.device.dnqualifier = kdm.kdm.dnqualifier JOIN shared.complex ON shared.complex.id = flm.device.complex_id JOIN kdm.receipt ON kdm.receipt.uuid = kdm.kdm.receipt_uuid WHERE flm.device.removed IS false AND shared.complex.complex_uuid IS NOT NULL AND kdm.receipt.from_ingest_service = false GROUP BY kdm.kdm.delivery_status
 ```

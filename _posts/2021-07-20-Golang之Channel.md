@@ -19,9 +19,23 @@ Channel有点类似python里的Queue, 例如内部通过锁的机制实现了并
 
 Channel的三种类型:
 
-- 同步 Channel — 不需要缓冲区，发送方会直接将数据交给（Handoff）接收方；
-- 异步 Channel — 基于环形缓存的传统生产者消费者模型；
-- `chan struct{}` 类型的异步 Channel — `struct{}` 类型不占用内存空间，不需要实现缓冲区和直接发送（Handoff）的语义；
+<div class="card-grid">
+<div class="mech-card is-param">
+<span class="kicker">同步</span>
+<strong>没有缓冲区</strong>
+<p>发送方直接把数据交给接收方（Handoff）。</p>
+</div>
+<div class="mech-card is-reason">
+<span class="kicker">异步</span>
+<strong>环形缓存</strong>
+<p>传统的生产者-消费者模型。</p>
+</div>
+<div class="mech-card is-tool">
+<span class="kicker">chan struct{}</span>
+<strong>不占内存</strong>
+<p>只做信号，不必实现缓冲区和直接发送。</p>
+</div>
+</div>
 
 Channel的底层结构
 

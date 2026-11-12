@@ -14,7 +14,18 @@ tags:
 
 进程和线程其实都是操作系统负责调度执行的, **操作系统是以进程为单位去分配空间和执行的**
 
-线程存活于进程之中, 同一个进程中的线程, 共享一个虚拟内存空间以及其中资源. 线程有自己的线程id
+<div class="card-grid cols-2">
+<div class="mech-card is-param">
+<span class="kicker">进程</span>
+<strong>资源分配单位</strong>
+<p>操作系统以进程为单位分配空间并执行。</p>
+</div>
+<div class="mech-card is-reason">
+<span class="kicker">线程</span>
+<strong>进程里的执行流</strong>
+<p>共享同一块虚拟内存，各自有线程 id。</p>
+</div>
+</div>
 
 ## Linux中的进程和线程
 

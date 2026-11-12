@@ -42,12 +42,32 @@ IO多路复用跟阻塞IO很像,区别在于**IO多路复用第一个等待不�
 
 根据定义,你就知道在第二个等待,从网络中获取数据这个如果是阻塞的,那就是同步的,否则就是异步的.所以阻塞式IO,非阻塞式IO,IO多路复用都归为同步IO. 只有异步IO,第二个等待过程也不阻塞的时候算是异步IO
 
-小结:
+<div class="callout callout-note" markdown="1">
 
 1. 是否阻塞看程序是否要等待内核数据准备好
 2. 是否同步看需不需要等待从内核读取内容的操作完成
 
+</div>
+
 ### Select, Poll, Epoll
+
+<div class="card-grid">
+<div class="mech-card is-param">
+<span class="kicker">Select</span>
+<strong>遍历 fd 集合</strong>
+<p>有 1024 上限，数据多时内核到用户态拷贝变贵，但跨平台。</p>
+</div>
+<div class="mech-card is-reason">
+<span class="kicker">Poll</span>
+<strong>换了数据结构</strong>
+<p>本质和 select 一样，只是解开了文件描述符数量上限。</p>
+</div>
+<div class="mech-card is-tool">
+<span class="kicker">Epoll</span>
+<strong>就绪时回调</strong>
+<p>fd 自己把自己放进就绪集合，不必每次遍历，规模上去也不容易垮。</p>
+</div>
+</div>
 
 #### Select
 
